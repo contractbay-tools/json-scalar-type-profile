@@ -1,0 +1,10 @@
+{
+  "document": {
+    "a": [
+      1,
+      true,
+      null
+    ],
+    "b": "ok"
+  }
+}
